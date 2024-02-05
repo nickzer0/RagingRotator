@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/nickzer0/RagingRotator)](https://goreportcard.com/report/github.com/nickzer0/RagingRotator)
+
 # RagingRotator
 A tool for carrying out brute force attacks against Office 365, with built in IP rotation use AWS gateways.
 
